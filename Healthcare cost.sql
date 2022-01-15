@@ -1,4 +1,4 @@
-DROP TABLE HospitalCosts;
+DROP TABLE IF EXISTS HospitalCosts;
 CREATE TABLE HospitalCosts
 (
 	AGE		smallint,							
