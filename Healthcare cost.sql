@@ -1,9 +1,9 @@
 DROP TABLE IF EXISTS HospitalCosts;
 CREATE TABLE HospitalCosts
 (
-	AGE			smallint,							
+	AGE		smallint,							
 	FEMALE		smallint,
-	LOS			smallint,
+	LOS		smallint,
 	RACE		smallint,
 	TOTCHG		int,
 	APRDRG		smallint
